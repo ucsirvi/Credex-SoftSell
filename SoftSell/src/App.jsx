@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import HeroSection from "./components/HeroSection";
 import HowItWorks from "./components/HowItWorks";
 import WhyChooseUs from "./components/WhyChooseUs";
-import Testimonials from "./components/Testimonials";
+import Testimonials from "./components/testimonials";
 import ContactForm from "./components/ContactForm";
 import ChatWidget from "./components/ChatWidget";
 
